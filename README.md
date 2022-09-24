@@ -15,7 +15,3 @@ Hi 🖖, I am full-time fullstack developer since 2021. <br><br>🌱 I'm current
 ![](https://github-readme-stats.vercel.app/api?username=ckconur&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ckconur&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckconur&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ckconur&icon=0&color=0)](https://visitcount.itsvg.in)
