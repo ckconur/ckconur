@@ -1,6 +1,6 @@
 ## About Me:
 
-Hi 🖖, I am full-time fullstack developer since 2021. <br><br>🌱 I'm currently learning TypeScript / NodeJs.
+Hi 🖖, I am full-time fullstack developer since 2021. <br><br>
 
 ## Socials:
 
