@@ -1,7 +1,8 @@
 ## About Me:
 
 Hi 🖖, I am full-time fullstack developer since 2021. <br><br>
-Currently learning Java. [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)]
+Currently learning Java.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br><br>
 
 ## Socials:
 
