@@ -1,6 +1,7 @@
 ## About Me:
 
 Hi 🖖, I am full-time fullstack developer since 2021. <br><br>
+Currently learning Java. (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Socials:
 
